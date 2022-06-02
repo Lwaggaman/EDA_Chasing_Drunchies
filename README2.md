@@ -25,7 +25,7 @@ My work attempts to answer the following questions:
 -  **'Recuperated'**: To determine if nightlife has, in fact, recuperated, I will use compare activity levels from 2021 to the same periods in 2019 and 2020. This will allow me to contrast the 2021 late-night traffic against the lows of 2020 and pre-pandemic levels of 2019 and see if any increase in activity was sustained as the ‘reopening’ excitement passed.
 
 ![](https://i.imgur.com/cmnBSn1l.png)
-
+![](https://i.imgur.com/cmnBSn1m.png)
 #### Data
 -   MTA turnstile data.
 -   Liquor Authority Current List of Active Licenses.

@@ -23,7 +23,6 @@ My work attempts to answer the following questions:
 -   **Nightlife**: Areas with high concentration of licenses to serve alcohol.
 -   **Activity**: NYC late night party-goers, unlike in other big cities, rely mostly on the subway for their transportation to and from events. [](https://f.hubspotusercontent00.net/hubfs/8020908/DS01_Nightlife%20Spending%20Study.pdf?utm_medium=email&_hsmi=93438620&_hsenc=p2ANqtz-8U6ZzwcZD3viqHxCpLrvy_EXyxj-99EyUoXe0B_BmNgINPYir9Zq9oiuIp78vTThtjm_m_aZkO2UjuJ5BOfTal2DMjIQ&utm_content=93438620&utm_source=hs_automation). This makes MTA turnstile data a reliable sample for representation of the movement patterns of people in NYC out for the night.
 -  **'Recuperated'**: To determine if nightlife has, in fact, recuperated, I will use compare activity levels from 2021 to the same periods in 2019 and 2020. This will allow me to contrast the 2021 late-night traffic against the lows of 2020 and pre-pandemic levels of 2019 and see if any increase in activity was sustained as the ‘reopening’ excitement passed.
-
 ![](https://i.imgur.com/cmnBSn1l.png)
 ![](https://i.imgur.com/cmnBSn1m.png)
 #### Data

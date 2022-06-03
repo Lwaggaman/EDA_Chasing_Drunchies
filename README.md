@@ -37,23 +37,24 @@ My work attempts to answer the following questions:
 -   **Fuzzywuzzy** to match station names from different data sources.
 -   **Matplotlib**, **Seaborn**, and **GeoPandas** for visualizations.
 
-#### Results
-##### Nightlife
+### Results
+#### Nightlife
 Brooklyn and Manhattan have more nightlife, more tighly packed.
 ![](https://i.imgur.com/rEVjesz.png)
-
 ![](https://i.imgur.com/OBBGr6u.png)
+
 The following are the 3 zipcodes with the highest concentration of establishments licensed to serve alcohol in Broolyn and Manhattan.
 ![](https://i.imgur.com/1VdkyND.png)
 
-##### Activity Levels
+#### Activity Levels
 While late-night weekend traffic between 8pm and 4am in these zipcodes has doubled since reopening, it is nowhere near pre-pandemic levels.
 ![](https://i.imgur.com/NmdwS0J.png)
+
 If we break it down by week, we can see that the difference between 2020 and 2021, understood to be people going out since reopening, gets smaller as time passes and Delta variant cases start incresing in NYC in August 2021.
 ![](https://i.imgur.com/r0in9Sd.png)
-Ultimately, it will be the food-truck owners decision to
 
-##### Best Location to Park
+
+#### Best Location to Park
 ###### Brooklyn
 Traffic accross the stations within nighlife zips. Dekalb Av, Jay St, Bedford Av, and Borough Hall are clearly the most active in the area. 
 ![](https://i.imgur.com/roNyGmA.png)

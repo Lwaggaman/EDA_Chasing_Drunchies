@@ -74,4 +74,7 @@ Once you zoom in on the 3 zipcodes with the most nightlife, you can see that som
 - Zipcode 10019 has more nighlife establishments than 10036 and more traffic than 10003, so it could be a better option. Within it, 59 St station is a good option, since it has the most traffic, but somewhere near 7 Av is a good option as well, since two other stations, 50 St and 57 St, are three minutes away walking.
 - Zipcode 10003 has less traffic but it has the most nighlife establishments in the borough and by parking between 8 St-NYU and Astor Pl stations we can reach the most people, including students who walk back home to NYU campus after a night out and don't register as subway traffic.
 
-![](https://i.imgur.com/6nc3vWX.png)
+![](https://i.imgur.com/mJ1QfW8.png)
+
+### Conclusion
+While nightlife has not resumed to pre-pandemic levels, 1-2 million of the people that were staying home during the pandemic are visiting nightlife zip codes on weekend nights. Ultimately, it will be up to the food-truck owner to decide whether it is worth it to try to service them. If they decide to do so, I have indicated some of the best areas based on the information available, and they can make their final decision based on other factors, such as daytime route, place of residence, or ease of permits.

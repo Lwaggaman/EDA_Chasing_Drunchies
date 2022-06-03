@@ -1,3 +1,4 @@
+
 ## Chasing Drunchies
 The goal of this project is to aid a Food Truck owner in branching out to nightlife in NYC in a pandemic.
 
@@ -26,8 +27,8 @@ My work attempts to answer the following questions:
 ![](https://i.imgur.com/cmnBSn1l.png)
 
 #### Data
--   MTA turnstile data[](http://web.mta.info/developers/turnstile.html).
--   Liquor Authority Current List of Active Licenses[](https://data.ny.gov/Economic-Development/Liquor-Authority-Current-List-of-Active-Licenses/hrvs-fxs2).
+-   MTA turnstile data.
+-   Liquor Authority Current List of Active Licenses.
 -   Subway stations’ coordinates.
 
 #### Tools
@@ -35,3 +36,43 @@ My work attempts to answer the following questions:
 -   **Pandas** and **NumPy** for data wrangling.
 -   **Fuzzywuzzy** to match station names from different data sources.
 -   **Matplotlib**, **Seaborn**, and **GeoPandas** for visualizations.
+
+#### Results
+##### Nightlife
+Brooklyn and Manhattan have more nightlife, more tighly packed.
+![](https://i.imgur.com/rEVjesz.png)
+
+![](https://i.imgur.com/OBBGr6u.png)
+The following are the 3 zipcodes with the highest concentration of establishments licensed to serve alcohol in Broolyn and Manhattan.
+![](https://i.imgur.com/1VdkyND.png)
+
+##### Activity Levels
+While late-night weekend traffic between 8pm and 4am in these zipcodes has doubled since reopening, it is nowhere near pre-pandemic levels.
+![](https://i.imgur.com/NmdwS0J.png)
+If we break it down by week, we can see that the difference between 2020 and 2021, understood to be people going out since reopening, gets smaller as time passes and Delta variant cases start incresing in NYC in August 2021.
+![](https://i.imgur.com/r0in9Sd.png)
+Ultimately, it will be the food-truck owners decision to
+
+##### Best Location to Park
+###### Brooklyn
+Traffic accross the stations within nighlife zips. Dekalb Av, Jay St, Bedford Av, and Borough Hall are clearly the most active in the area. 
+![](https://i.imgur.com/roNyGmA.png)
+This plot contrasts nighlife establishments and traffic densities. By considering location, we can see how close some stations are to eachother.
+![](https://i.imgur.com/qtxR22u.png)
+
+- Zipcode 11201 contains three stations with a great amount of traffic very close to each other, making it a good place to park a food truck.
+- Zipcode 11211 has the most nighlife establishments in the borough, and the station with the most amount of traffic (Bedford Av), along with two stations with high traffic very close together. 
+![](https://i.imgur.com/n2X5Pn9.png)
+
+
+###### Manhattan
+Here you can see traffic in Manhattan stations contrasted with concentration of nighlife establishments by zip.
+![](https://i.imgur.com/twYaNAm.png)
+Once you zoom in on the 3 zipcodes with the most nightlife, you can see that some of the bubbles withh the highest traffic disappear once we filter out those contained in the zipcodes. Stations like Times Sq-42 St are labeled as being in a different zipcode because they're on the other side of the street. Adjusting this will lead to better informed decisions.
+![](https://i.imgur.com/wEg6cSu.png)
+![](https://i.imgur.com/4MnrYeu.png)
+- Zipcode 10036 has the two stations with the most traffic, but it must be considered that this is Times Sq traffic, where there are plenty of food vendors and the crowds are mostly tourists. You can see by the color depth in the heatmap that it has significantly less nightlife establishments than the other two zipcodes as well. 
+- Zipcode 10019 has more nighlife establishments than 10036 and more traffic than 10003, so it could be a better option. Within it, 59 St station is a good option, since it has the most traffic, but somewhere near 7 Av is a good option as well, since two other stations, 50 St and 57 St, are three minutes away walking.
+- Zipcode 10003 has less traffic but it has the most nighlife establishments in the borough and by parking between 8 St-NYU and Astor Pl stations we can reach the most people, including students who walk back home to NYU campus after a night out and don't register as subway traffic.
+
+![](https://i.imgur.com/6nc3vWX.png)

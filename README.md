@@ -56,8 +56,6 @@ If we break it down by week, we can see that the difference between 2020 and 202
 
 #### Best Location to Park
 ###### Brooklyn
-Traffic across the stations within nightlife zips. Dekalb Av, Jay St, Bedford Av, and Borough Hall are clearly the most active in the area. 
-![](https://i.imgur.com/roNyGmA.png)
 This heatmap combines concentration of nightlife establishments per zip with the location and traffic of the subway stations within them. By considering location, we can see how close some stations are to each other.
 ![](https://i.imgur.com/qtxR22u.png)
 

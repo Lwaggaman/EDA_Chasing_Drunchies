@@ -9,7 +9,7 @@ Alcohol consumption tricks the brain into starvation mode and stimulates hunger,
 
 This presents an opportunity for food food truck owners who want to expand. While the pandemic has been good to food truck owners, nightlife has been greatly impacted by it.
 
-#### **Solution: EDA**
+#### **Solution: Exploratory Data Analysis (EDA)**
 Food truck owners would be right to be hesitant, which is why I set out to help them make data-driven decisions though Exploratory Data Analysis.
 
 My work attempts to answer the following questions:

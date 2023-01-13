@@ -75,6 +75,7 @@ This heatmap combines concentration of nightlife establishments per zip with the
 Here you can see traffic in Manhattan stations contrasted with concentration of nightlife establishments by zip.
 
 ![](https://i.imgur.com/twYaNAm.png)
+
 Once you zoom in on the 3 zipcodes with the most nightlife, you can see that some of the bubbles with the highest traffic disappear once we filter out those contained in the zipcodes. Stations like Times Sq-42 St are labeled as being in a different zipcode because they're on the other side of the street. Adjusting this will lead to better informed decisions.
 
 ![](https://i.imgur.com/wEg6cSu.png)
